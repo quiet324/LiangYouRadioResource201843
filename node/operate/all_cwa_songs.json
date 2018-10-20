@@ -1626,5 +1626,16 @@
 		"artistName": "天路导向（粤语）",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/cwa20181020/cwa/cwa181020.mp3",
 		"id": 56181020
+	},
+	{
+		"time": "20181021",
+		"title": "积极生活的秘诀（13）Secrets of Positive Living (13)",
+		"downUrl": "http://txly2.net/ly/audio/2018/cwa/cwa181021.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 56,
+		"artistName": "天路导向（粤语）",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/cwa20181021/cwa/cwa181021.mp3",
+		"id": 56181021
 	}
 ]
