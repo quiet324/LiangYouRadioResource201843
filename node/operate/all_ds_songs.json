@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180715",
-		"title": "良院讲台：振奋的祷告（赛64:1-3；讲员：姚谦）",
-		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds180715.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 46,
-		"artistName": "晨曦讲座",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201829/ds20180715/ds/ds180715.mp3",
-		"id": 46180715
-	},
-	{
 		"time": "20180716",
 		"title": "良院专区：老师心声（罗加怡）；公布入学试和《教会增长》考题",
 		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds180716.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "晨曦讲座",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/ds20181020/ds/ds181020.mp3",
 		"id": 46181020
+	},
+	{
+		"time": "20181021",
+		"title": "良院讲台：灵友之树（门8-14节；讲员：姚谦）",
+		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds181021.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 46,
+		"artistName": "晨曦讲座",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/ds20181021/ds/ds181021.mp3",
+		"id": 46181021
 	}
 ]
