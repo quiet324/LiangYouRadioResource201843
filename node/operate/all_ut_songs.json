@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180713",
-		"title": "情感交流站：如同主的形状",
-		"downUrl": "http://txly2.net/ly/audio/2018/ut/ut180713.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 18,
-		"artistName": "我们的时间",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201828/ut20180713/ut/ut180713.mp3",
-		"id": 18180713
-	},
-	{
 		"time": "20180716",
 		"title": "为神建立家室：基督的温柔",
 		"downUrl": "http://txly2.net/ly/audio/2018/ut/ut180716.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "我们的时间",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/ut20181019/ut/ut181019.mp3",
 		"id": 18181019
+	},
+	{
+		"time": "20181022",
+		"title": "情感交流站：操练",
+		"downUrl": "http://txly2.net/ly/audio/2018/ut/ut181022.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 18,
+		"artistName": "我们的时间",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/ut20181022/ut/ut181022.mp3",
+		"id": 18181022
 	}
 ]
