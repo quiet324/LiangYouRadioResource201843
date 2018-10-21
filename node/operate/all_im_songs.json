@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180713",
-		"title": "母子两地书：心灵被触动的瞬间──那些为了他人灵魂忧伤、将自己奉献给天国的见证深深打动少年人的心，他开始为神所赐的种种恩典感恩，开始决定每天向神祷告、依靠神……与神相遇就是如此振奋人心！",
-		"downUrl": "http://txly2.net/ly/audio/2018/im/im180713.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 14,
-		"artistName": "i关怀心磁场",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201828/im20180713/im/im180713.mp3",
-		"id": 14180713
-	},
-	{
 		"time": "20180716",
 		"title": "心磁场大平台：十七年对癲痫病妻不离不弃的爱──无论是谁要娶或嫁一个身体明显有问题的人，都需要极大的信心和勇气，但有健康女孩追求的他，却选择了一位身患癫痫病的姐妹结婚，并且在17年的婚姻中，竭尽全力照顾时常犯病的妻子，还养育了一对敬虔懂事的儿女。",
 		"downUrl": "http://txly2.net/ly/audio/2018/im/im180716.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "i关怀心磁场",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/im20181019/im/im181019.mp3",
 		"id": 14181019
+	},
+	{
+		"time": "20181022",
+		"title": "信仰大擂台：基督徒的婚恋观之因为信仰让我们更懂得去爱──“男大当婚，女大当嫁”。很多恋爱中的男女都会看重对方家庭背景、经济实力，工作条件等，他们相恋六年，也不可避免因为现实条件而不敢考虑结婚，但在信主后，他更懂得体贴她、爱她，并且他们也很快决定在无房、无车、无钱、无工作的情况下结婚。",
+		"downUrl": "http://txly2.net/ly/audio/2018/im/im181022.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 14,
+		"artistName": "i关怀心磁场",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/im20181022/im/im181022.mp3",
+		"id": 14181022
 	}
 ]
