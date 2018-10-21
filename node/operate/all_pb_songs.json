@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180713",
-		"title": "启示录七间教会系列：老底嘉（1）",
-		"downUrl": "http://txly2.net/ly/audio/2018/pb/pb180713.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 44,
-		"artistName": "接棒人",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201828/pb20180713/pb/pb180713.mp3",
-		"id": 44180713
-	},
-	{
 		"time": "20180716",
 		"title": "启示录七间教会系列：老底嘉（2）",
 		"downUrl": "http://txly2.net/ly/audio/2018/pb/pb180716.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "接棒人",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/pb20181019/pb/pb181019.mp3",
 		"id": 44181019
+	},
+	{
+		"time": "20181022",
+		"title": "信仰生命之道系列：洗礼的意义",
+		"downUrl": "http://txly2.net/ly/audio/2018/pb/pb181022.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 44,
+		"artistName": "接棒人",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/pb20181022/pb/pb181022.mp3",
+		"id": 44181022
 	}
 ]
