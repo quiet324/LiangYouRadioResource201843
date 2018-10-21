@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180716",
-		"title": "我怎能知道？（太19:23-30）",
-		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw180716.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 30,
-		"artistName": "旷野吗哪",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201829/mw20180716/mw/mw180716.mp3",
-		"id": 30180716
-	},
-	{
 		"time": "20180717",
 		"title": "百合花在荆棘内（歌2:1-7）",
 		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw180717.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "旷野吗哪",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/mw20181021/mw/mw181021.mp3",
 		"id": 30181021
+	},
+	{
+		"time": "20181022",
+		"title": "快乐的接受神的旨意（弗5:15-21）",
+		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw181022.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 30,
+		"artistName": "旷野吗哪",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/mw20181022/mw/mw181022.mp3",
+		"id": 30181022
 	}
 ]
