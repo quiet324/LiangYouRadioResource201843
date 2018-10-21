@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180716",
-		"title": "良院专区：老师心声（罗加怡）；公布入学试和《教会增长》考题",
-		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds180716.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 46,
-		"artistName": "晨曦讲座",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201829/ds20180716/ds/ds180716.mp3",
-		"id": 46180716
-	},
-	{
 		"time": "20180717",
 		"title": "教牧新视野：21世纪门徒训练的典范转移（主持：姚谦、杨天成）",
 		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds180717.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "晨曦讲座",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/ds20181021/ds/ds181021.mp3",
 		"id": 46181021
+	},
+	{
+		"time": "20181022",
+		"title": "良院专区：听众回应“向老师致敬”──林诚、姚谦；公布《保罗书信II》、《教会差传培育》考题",
+		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds181022.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 46,
+		"artistName": "晨曦讲座",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/ds20181022/ds/ds181022.mp3",
+		"id": 46181022
 	}
 ]
