@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180713",
-		"title": "教导儿女智财教育：第二课、不要错看零用钱──亲情无价（2）零用钱不是孩子听话的奖赏也不可随意取用",
-		"downUrl": "http://txly2.net/ly/audio/2018/up/up180713.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 20,
-		"artistName": "亲情不断电",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201828/up20180713/up/up180713.mp3",
-		"id": 20180713
-	},
-	{
 		"time": "20180716",
 		"title": "亲情厨房：水果传（2）巧克力 ；与父母促膝谈：关心妈妈",
 		"downUrl": "http://txly2.net/ly/audio/2018/up/up180716.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "亲情不断电",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201842/up20181019/up/up181019.mp3",
 		"id": 20181019
+	},
+	{
+		"time": "20181022",
+		"title": "让青春风暴变成青春风采（9岁-12岁）（10）情绪失控谁之过？与父母促膝谈：承诺，承诺",
+		"downUrl": "http://txly2.net/ly/audio/2018/up/up181022.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 20,
+		"artistName": "亲情不断电",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/up20181022/up/up181022.mp3",
+		"id": 20181022
 	}
 ]
