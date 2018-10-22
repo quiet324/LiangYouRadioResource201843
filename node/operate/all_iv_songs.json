@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180716",
-		"title": "大卫的热切与际遇系列：当面指责（3）",
-		"downUrl": "http://txly2.net/ly/audio/2018/iv/iv180716.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 42,
-		"artistName": "生活之光",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201829/iv20180716/iv/iv180716.mp3",
-		"id": 42180716
-	},
-	{
 		"time": "20180717",
 		"title": "大卫的热切与际遇系列：家庭问题（1）",
 		"downUrl": "http://txly2.net/ly/audio/2018/iv/iv180717.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "生活之光",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/iv20181022/iv/iv181022.mp3",
 		"id": 42181022
+	},
+	{
+		"time": "20181023",
+		"title": "家庭至为重要：投资在永恒的事情上系列──重新审视那些重要的事情（3）",
+		"downUrl": "http://txly2.net/ly/audio/2018/iv/iv181023.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 42,
+		"artistName": "生活之光",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/iv20181023/iv/iv181023.mp3",
+		"id": 42181023
 	}
 ]
