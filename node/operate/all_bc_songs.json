@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180716",
-		"title": "信心日引：等候神（彼后3:9）；大阅读家：第三章、阅读是相信-3",
-		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc180716.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 10,
-		"artistName": "书香园地",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201829/bc20180716/bc/bc180716.mp3",
-		"id": 10180716
-	},
-	{
 		"time": "20180717",
 		"title": "信心日引：内在的争战（加5:17）；大阅读家：第三章、阅读是相信-4",
 		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc180717.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "书香园地",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/bc20181022/bc/bc181022.mp3",
 		"id": 10181022
+	},
+	{
+		"time": "20181023",
+		"title": "信心日引：谦卑的与神同行（弥6:8）；俗世圣徒：第十一章、哀伤-2",
+		"downUrl": "http://txly2.net/ly/audio/2018/bc/bc181023.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 10,
+		"artistName": "书香园地",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/bc20181023/bc/bc181023.mp3",
+		"id": 10181023
 	}
 ]
