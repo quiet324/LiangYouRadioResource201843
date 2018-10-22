@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180716",
-		"title": "生命之歌：宣信《到遥远地方》",
-		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw180716.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 51,
-		"artistName": "齐来颂扬",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201829/cw20180716/cw/cw180716.mp3",
-		"id": 51180716
-	},
-	{
 		"time": "20180717",
 		"title": "弹指之间：听得见的盼望──何翊玮姊妹 《那双看不见的手》、《最知心的朋友》、《眼光》",
 		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw180717.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "齐来颂扬",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/cw20181022/cw/cw181022.mp3",
 		"id": 51181022
+	},
+	{
+		"time": "20181023",
+		"title": "弹指之间：《当答案不够时》、《神对你的一生有计划》、《我知谁掌管明天》",
+		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw181023.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 51,
+		"artistName": "齐来颂扬",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/cw20181023/cw/cw181023.mp3",
+		"id": 51181023
 	}
 ]
