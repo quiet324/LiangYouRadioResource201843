@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180717",
-		"title": "百合花在荆棘内（歌2:1-7）",
-		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw180717.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 30,
-		"artistName": "旷野吗哪",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201829/mw20180717/mw/mw180717.mp3",
-		"id": 30180717
-	},
-	{
 		"time": "20180718",
 		"title": "独自忍受（约18:1-14）",
 		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw180718.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "旷野吗哪",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/mw20181022/mw/mw181022.mp3",
 		"id": 30181022
+	},
+	{
+		"time": "20181023",
+		"title": "“负主轭”得“真安息”（太11:20-30）",
+		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw181023.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 30,
+		"artistName": "旷野吗哪",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/mw20181023/mw/mw181023.mp3",
+		"id": 30181023
 	}
 ]
