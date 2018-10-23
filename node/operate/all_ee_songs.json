@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180718",
-		"title": "智慧语录：旅行的真谛，是带着身体去寻找灵魂的真理；拥抱小语：白纸与黑点；诗情细语话人生：诗篇的心灵之约（10）",
-		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee180718.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 29,
-		"artistName": "拥抱每一天",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201829/ee20180718/ee/ee180718.mp3",
-		"id": 29180718
-	},
-	{
 		"time": "20180719",
 		"title": "说个故事给你听：葛培理生命的里程",
 		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee180719.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "拥抱每一天",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/ee20181023/ee/ee181023.mp3",
 		"id": 29181023
+	},
+	{
+		"time": "20181024",
+		"title": "智慧语录：聪明的极致是厚道；诗情细语话人生：在诗篇的心灵之约（19）",
+		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee181024.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 29,
+		"artistName": "拥抱每一天",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/ee20181024/ee/ee181024.mp3",
+		"id": 29181024
 	}
 ]
