@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180717",
-		"title": "亲情出行：小芳探亲行（2）妈妈；与父母促膝谈：早餐准备好了吗？",
-		"downUrl": "http://txly2.net/ly/audio/2018/up/up180717.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 20,
-		"artistName": "亲情不断电",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201829/up20180717/up/up180717.mp3",
-		"id": 20180717
-	},
-	{
 		"time": "20180718",
 		"title": "亲情音乐厅：《有一天》；与父母促膝谈：生活的魅力",
 		"downUrl": "http://txly2.net/ly/audio/2018/up/up180718.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "亲情不断电",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/up20181023/up/up181023.mp3",
 		"id": 20181023
+	},
+	{
+		"time": "20181024",
+		"title": "亲情儿童房：快乐教养实践77招儿──内外一致；与父母促膝谈：无价的喜乐",
+		"downUrl": "http://txly2.net/ly/audio/2018/up/up181024.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 20,
+		"artistName": "亲情不断电",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/up20181024/up/up181024.mp3",
+		"id": 20181024
 	}
 ]
