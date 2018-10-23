@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180718",
-		"title": "晨曦交流站：卢文牧师和文惠与你探讨听众所关注的教会问题",
-		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds180718.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 46,
-		"artistName": "晨曦讲座",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201829/ds20180718/ds/ds180718.mp3",
-		"id": 46180718
-	},
-	{
 		"time": "20180719",
 		"title": "宣教心之路：从差会主导到堂会主导的宣教模式（下）（主持：姚谦、杨天成）",
 		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds180719.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "晨曦讲座",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/ds20181023/ds/ds181023.mp3",
 		"id": 46181023
+	},
+	{
+		"time": "20181024",
+		"title": "晨曦交流站：卢文牧师和林诚牧师与你探讨听众所关注的教会问题",
+		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds181024.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 46,
+		"artistName": "晨曦讲座",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/ds20181024/ds/ds181024.mp3",
+		"id": 46181024
 	}
 ]
