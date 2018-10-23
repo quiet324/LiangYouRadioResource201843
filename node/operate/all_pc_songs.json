@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180718",
-		"title": "音乐咕咕钟：凡事都可能",
-		"downUrl": "http://txly2.net/ly/audio/2018/pc/pc180718.mp3",
-		"duration": 860,
-		"size": "6.9M",
-		"artistId": 17,
-		"artistName": "爆米花",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201829/pc20180718/pc/pc180718.mp3",
-		"id": 17180718
-	},
-	{
 		"time": "20180719",
 		"title": "巨人的秘密：北宋词人书画家王寀",
 		"downUrl": "http://txly2.net/ly/audio/2018/pc/pc180719.mp3",
@@ -867,5 +856,16 @@
 		"artistName": "爆米花",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/pc20181023/pc/pc181023.mp3",
 		"id": 17181023
+	},
+	{
+		"time": "20181024",
+		"title": "音乐咕咕钟：为主来欢唱",
+		"downUrl": "http://txly2.net/ly/audio/2018/pc/pc181024.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 17,
+		"artistName": "爆米花",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/pc20181024/pc/pc181024.mp3",
+		"id": 17181024
 	}
 ]
