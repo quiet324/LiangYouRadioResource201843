@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180717",
-		"title": "大卫的热切与际遇系列：家庭问题（1）",
-		"downUrl": "http://txly2.net/ly/audio/2018/iv/iv180717.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 42,
-		"artistName": "生活之光",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201829/iv20180717/iv/iv180717.mp3",
-		"id": 42180717
-	},
-	{
 		"time": "20180718",
 		"title": "大卫的热切与际遇系列：家庭问题（2）",
 		"downUrl": "http://txly2.net/ly/audio/2018/iv/iv180718.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "生活之光",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/iv20181023/iv/iv181023.mp3",
 		"id": 42181023
+	},
+	{
+		"time": "20181024",
+		"title": "家庭至为重要：投资在永恒的事情上系列──解开你家中气喉的结（1）",
+		"downUrl": "http://txly2.net/ly/audio/2018/iv/iv181024.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 42,
+		"artistName": "生活之光",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/iv20181024/iv/iv181024.mp3",
+		"id": 42181024
 	}
 ]
