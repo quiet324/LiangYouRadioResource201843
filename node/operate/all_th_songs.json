@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180718",
-		"title": "罗得免与所多玛城同灭（2）（创19:4-11）",
-		"downUrl": "http://txly2.net/ly/audio/2018/th/th180718.mp3",
-		"duration": 860,
-		"size": "6.9M",
-		"artistId": 32,
-		"artistName": "真理之光",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201829/th20180718/th/th180718.mp3",
-		"id": 32180718
-	},
-	{
 		"time": "20180719",
 		"title": "罗得免与所多玛城同灭（3）（创19:12-22）",
 		"downUrl": "http://txly2.net/ly/audio/2018/th/th180719.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "真理之光",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/th20181023/th/th181023.mp3",
 		"id": 32181023
+	},
+	{
+		"time": "20181024",
+		"title": "雅各动身离开巴旦亚兰（1）（创31:1-16）",
+		"downUrl": "http://txly2.net/ly/audio/2018/th/th181024.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 32,
+		"artistName": "真理之光",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/th20181024/th/th181024.mp3",
+		"id": 32181024
 	}
 ]
