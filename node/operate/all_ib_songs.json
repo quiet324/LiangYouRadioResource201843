@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180719",
-		"title": "健康小贴士：热水养生法（5）（主持：罗文辉、刘佳音）；飞行号医馆：专题讲座──打鼾和睡眠窒息症（嘉宾：许医师）",
-		"downUrl": "http://txly2.net/ly/audio/2018/ib/ib180719.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 16,
-		"artistName": "无限飞行号",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201829/ib20180719/ib/ib180719.mp3",
-		"id": 16180719
-	},
-	{
 		"time": "20180720",
 		"title": "给我你的手：听众点播歌曲《能不能》、《恩典的记号》；佳音手记：呢喃心语（11）（主持：刘佳音）",
 		"downUrl": "http://txly2.net/ly/audio/2018/ib/ib180720.mp3",
@@ -1009,5 +998,16 @@
 		"artistName": "无限飞行号",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/ib20181024/ib/ib181024.mp3",
 		"id": 16181024
+	},
+	{
+		"time": "20181025",
+		"title": "健康小贴士：七个建议帮您保护听力（6）（主持：杨天成、刘佳音）；飞行号医馆：专题讲座──脚气问题（嘉宾：许医师）",
+		"downUrl": "http://txly2.net/ly/audio/2018/ib/ib181025.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 16,
+		"artistName": "无限飞行号",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/ib20181025/ib/ib181025.mp3",
+		"id": 16181025
 	}
 ]
