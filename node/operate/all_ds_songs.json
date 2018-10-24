@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180719",
-		"title": "宣教心之路：从差会主导到堂会主导的宣教模式（下）（主持：姚谦、杨天成）",
-		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds180719.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 46,
-		"artistName": "晨曦讲座",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201829/ds20180719/ds/ds180719.mp3",
-		"id": 46180719
-	},
-	{
 		"time": "20180720",
 		"title": "从布道到培训：命令的总归（主持：卢文、周虹）",
 		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds180720.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "晨曦讲座",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/ds20181024/ds/ds181024.mp3",
 		"id": 46181024
+	},
+	{
+		"time": "20181025",
+		"title": "宣教心之路：堂会关顾宣教士的迷思（主持：姚谦、林诚）",
+		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds181025.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 46,
+		"artistName": "晨曦讲座",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/ds20181025/ds/ds181025.mp3",
+		"id": 46181025
 	}
 ]
