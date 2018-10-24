@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180719",
-		"title": "放胆向神求（约壹5:12-21）",
-		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw180719.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 30,
-		"artistName": "旷野吗哪",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201829/mw20180719/mw/mw180719.mp3",
-		"id": 30180719
-	},
-	{
 		"time": "20180720",
 		"title": "信靠神的良善慈爱（诗27:7-14）",
 		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw180720.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "旷野吗哪",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/mw20181024/mw/mw181024.mp3",
 		"id": 30181024
+	},
+	{
+		"time": "20181025",
+		"title": "全无阻隔在主与我灵间（约15:1-8）",
+		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw181025.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 30,
+		"artistName": "旷野吗哪",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/mw20181025/mw/mw181025.mp3",
+		"id": 30181025
 	}
 ]
