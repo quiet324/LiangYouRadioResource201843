@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180720",
-		"title": "绝妙小剧场：丢一块砖头",
-		"downUrl": "http://txly2.net/ly/audio/2018/yu/yu180720.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 7,
-		"artistName": "绝妙当家",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201829/yu20180720/yu/yu180720.mp3",
-		"id": 7180720
-	},
-	{
 		"time": "20180721",
 		"title": "动绝妙：最火运动TABATA",
 		"downUrl": "http://txly2.net/ly/audio/2018/yu/yu180721.mp3",
@@ -1008,5 +997,16 @@
 		"artistName": "绝妙当家",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/yu20181025/yu/yu181025.mp3",
 		"id": 7181025
+	},
+	{
+		"time": "20181026",
+		"title": "绝妙小剧场：一碗白饭",
+		"downUrl": "http://txly2.net/ly/audio/2018/yu/yu181026.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 7,
+		"artistName": "绝妙当家",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/yu20181026/yu/yu181026.mp3",
+		"id": 7181026
 	}
 ]
