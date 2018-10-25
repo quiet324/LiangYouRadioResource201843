@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180720",
-		"title": "信靠神的良善慈爱（诗27:7-14）",
-		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw180720.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 30,
-		"artistName": "旷野吗哪",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201829/mw20180720/mw/mw180720.mp3",
-		"id": 30180720
-	},
-	{
 		"time": "20180721",
 		"title": "打开门窗吧！（诗130篇）",
 		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw180721.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "旷野吗哪",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/mw20181025/mw/mw181025.mp3",
 		"id": 30181025
+	},
+	{
+		"time": "20181026",
+		"title": "不住的祷告（路18:1-8）",
+		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw181026.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 30,
+		"artistName": "旷野吗哪",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/mw20181026/mw/mw181026.mp3",
+		"id": 30181026
 	}
 ]
