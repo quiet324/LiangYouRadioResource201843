@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180720",
-		"title": "君王救主——马太福音（23）（讲员：陈湘儿）",
-		"downUrl": "http://txly2.net/ly/audio/2018/be/be180720.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 36,
-		"artistName": "真道分解",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201829/be20180720/be/be180720.mp3",
-		"id": 36180720
-	},
-	{
 		"time": "20180721",
 		"title": "君王救主——马太福音（24）（讲员：陈湘儿）",
 		"downUrl": "http://txly2.net/ly/audio/2018/be/be180721.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "真道分解",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/be20181025/be/be181025.mp3",
 		"id": 36181025
+	},
+	{
+		"time": "20181026",
+		"title": "迎候主来——帖撒罗尼迦前书（1）概论（讲员：张得仁）",
+		"downUrl": "http://txly2.net/ly/audio/2018/be/be181026.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 36,
+		"artistName": "真道分解",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/be20181026/be/be181026.mp3",
+		"id": 36181026
 	}
 ]
