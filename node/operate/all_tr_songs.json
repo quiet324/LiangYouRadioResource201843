@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180719",
-		"title": "诗歌欣赏：《如果我能唱》、《听我心声》、《生命是一首诗歌》",
-		"downUrl": "http://txly2.net/ly/audio/2018/tr/tr180719.mp3",
-		"duration": 860,
-		"size": "6.9M",
-		"artistId": 52,
-		"artistName": "彩虹桥",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201829/tr20180719/tr/tr180719.mp3",
-		"id": 52180719
-	},
-	{
 		"time": "20180720",
 		"title": "野地的花小语：每一次感到自己不足的时候，都是领受主祝福的契机。",
 		"downUrl": "http://txly2.net/ly/audio/2018/tr/tr180720.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "彩虹桥",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/tr20181025/tr/tr181025.mp3",
 		"id": 52181025
+	},
+	{
+		"time": "20181026",
+		"title": "野地的花小语：把焦点放在神的身上，一定会看见祂的作为……",
+		"downUrl": "http://txly2.net/ly/audio/2018/tr/tr181026.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 52,
+		"artistName": "彩虹桥",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/tr20181026/tr/tr181026.mp3",
+		"id": 52181026
 	}
 ]
