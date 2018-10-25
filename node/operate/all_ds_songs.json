@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180720",
-		"title": "从布道到培训：命令的总归（主持：卢文、周虹）",
-		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds180720.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 46,
-		"artistName": "晨曦讲座",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201829/ds20180720/ds/ds180720.mp3",
-		"id": 46180720
-	},
-	{
 		"time": "20180721",
 		"title": "从布道到培训：教会的进步（主持：卢文、周虹）",
 		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds180721.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "晨曦讲座",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/ds20181025/ds/ds181025.mp3",
 		"id": 46181025
+	},
+	{
+		"time": "20181026",
+		"title": "从布道到培训：长老的资格（主持：卢文、周虹）",
+		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds181026.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 46,
+		"artistName": "晨曦讲座",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/ds20181026/ds/ds181026.mp3",
+		"id": 46181026
 	}
 ]
