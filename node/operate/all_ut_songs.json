@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180719",
-		"title": "生活百花园：试炼的果效",
-		"downUrl": "http://txly2.net/ly/audio/2018/ut/ut180719.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 18,
-		"artistName": "我们的时间",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201829/ut20180719/ut/ut180719.mp3",
-		"id": 18180719
-	},
-	{
 		"time": "20180720",
 		"title": "情感交流站：靠主恩典学主样式",
 		"downUrl": "http://txly2.net/ly/audio/2018/ut/ut180720.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "我们的时间",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/ut20181025/ut/ut181025.mp3",
 		"id": 18181025
+	},
+	{
+		"time": "20181026",
+		"title": "生活百花园：喜乐乃良药",
+		"downUrl": "http://txly2.net/ly/audio/2018/ut/ut181026.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 18,
+		"artistName": "我们的时间",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/ut20181026/ut/ut181026.mp3",
+		"id": 18181026
 	}
 ]
