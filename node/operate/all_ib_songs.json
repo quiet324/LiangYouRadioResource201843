@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180720",
-		"title": "给我你的手：听众点播歌曲《能不能》、《恩典的记号》；佳音手记：呢喃心语（11）（主持：刘佳音）",
-		"downUrl": "http://txly2.net/ly/audio/2018/ib/ib180720.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 16,
-		"artistName": "无限飞行号",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201829/ib20180720/ib/ib180720.mp3",
-		"id": 16180720
-	},
-	{
 		"time": "20180721",
 		"title": "听众热线分享：福建王姊妹──没同路人感孤单，若没有耶稣就活不到今天；一起来摒弃负能量，让我们给生活加点鸡精（主持：罗文辉、刘佳音）",
 		"downUrl": "http://txly2.net/ly/audio/2018/ib/ib180721.mp3",
@@ -1009,5 +998,16 @@
 		"artistName": "无限飞行号",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/ib20181025/ib/ib181025.mp3",
 		"id": 16181025
+	},
+	{
+		"time": "20181026",
+		"title": "给我你的手：听众点播歌曲《有一天》、《最美的爱》；我的半杯水生命见证（8）记忆氧化，神恩无尽（主持：刘佳音）",
+		"downUrl": "http://txly2.net/ly/audio/2018/ib/ib181026.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 16,
+		"artistName": "无限飞行号",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/ib20181026/ib/ib181026.mp3",
+		"id": 16181026
 	}
 ]
