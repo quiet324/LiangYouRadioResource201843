@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180718",
-		"title": "好得无比，每一天：你怎样看上帝（路9:23）；建立生命的基石（8）（主持：刘芳）；我爱背金句：提前4:16",
-		"downUrl": "http://txly2.net/ly/audio/2018/dy/dy180718.mp3",
-		"duration": 3560,
-		"size": "28.5M",
-		"artistId": 24,
-		"artistName": "献上今天",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201829/dy20180718/dy/dy180718.mp3",
-		"id": 24180718
-	},
-	{
 		"time": "20180719",
 		"title": "好得无比，每一天：你信的神是怎样的呢？（太22:29）；教会的种子（8）（主持：万峰）；我爱背金句：提前4:16",
 		"downUrl": "http://txly2.net/ly/audio/2018/dy/dy180719.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "献上今天",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/dy20181024/dy/dy181024.mp3",
 		"id": 24181024
+	},
+	{
+		"time": "20181025",
+		"title": "好得无比，每一天：遇见天使（来1:14）；天路历程（14）；我爱背金句：罗10:15",
+		"downUrl": "http://txly2.net/ly/audio/2018/dy/dy181025.mp3",
+		"duration": 3560,
+		"size": "28.5M",
+		"artistId": 24,
+		"artistName": "献上今天",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/dy20181025/dy/dy181025.mp3",
+		"id": 24181025
 	}
 ]
