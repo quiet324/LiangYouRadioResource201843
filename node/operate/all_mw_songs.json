@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180721",
-		"title": "打开门窗吧！（诗130篇）",
-		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw180721.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 30,
-		"artistName": "旷野吗哪",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201829/mw20180721/mw/mw180721.mp3",
-		"id": 30180721
-	},
-	{
 		"time": "20180722",
 		"title": "神使我刚强（但10:1、7-19）",
 		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw180722.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "旷野吗哪",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/mw20181026/mw/mw181026.mp3",
 		"id": 30181026
+	},
+	{
+		"time": "20181027",
+		"title": "微小的开始（创46:1-7）",
+		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw181027.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 30,
+		"artistName": "旷野吗哪",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/mw20181027/mw/mw181027.mp3",
+		"id": 30181027
 	}
 ]
