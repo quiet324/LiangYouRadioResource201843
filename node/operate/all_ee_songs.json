@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180721",
-		"title": "智慧语录：找靠谱的人共事，与温柔的人结婚；用智慧演绎人生：给职场新人的三个建议",
-		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee180721.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 29,
-		"artistName": "拥抱每一天",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201829/ee20180721/ee/ee180721.mp3",
-		"id": 29180721
-	},
-	{
 		"time": "20180722",
 		"title": "智慧语录：一个人的衰老，从不再旅行开始；神的叮咛我最爱：要明白神的旨意",
 		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee180722.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "拥抱每一天",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/ee20181026/ee/ee181026.mp3",
 		"id": 29181026
+	},
+	{
+		"time": "20181027",
+		"title": "用智慧演绎人生：如何处患难而不惊？",
+		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee181027.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 29,
+		"artistName": "拥抱每一天",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/ee20181027/ee/ee181027.mp3",
+		"id": 29181027
 	}
 ]
